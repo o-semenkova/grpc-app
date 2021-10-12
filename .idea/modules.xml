@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/master-grpc/.mvn/.mvn.iml" filepath="$PROJECT_DIR$/master-grpc/.mvn/.mvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secondary-grpc/.mvn/.mvn1.iml" filepath="$PROJECT_DIR$/secondary-grpc/.mvn/.mvn1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sender/.mvn/.mvn2.iml" filepath="$PROJECT_DIR$/Sender/.mvn/.mvn2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sender/Sender.iml" filepath="$PROJECT_DIR$/Sender/Sender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grpc-app.iml" filepath="$PROJECT_DIR$/grpc-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/master-grpc/master-grpc.iml" filepath="$PROJECT_DIR$/master-grpc/master-grpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secondary-grpc/secondary-grpc.iml" filepath="$PROJECT_DIR$/secondary-grpc/secondary-grpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secondary-grpc-second/secondary-grpc-second.iml" filepath="$PROJECT_DIR$/secondary-grpc-second/secondary-grpc-second.iml" />
+    </modules>
+  </component>
+</project>
